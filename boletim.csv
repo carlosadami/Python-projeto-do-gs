@@ -1,0 +1,6 @@
+sensor_id,bairro,local,atualizado_em,nivel_cm,taxa_cm_h,tendencia,risco,subida_rapida,minutos_ate_emergencia,acao,maximo_cm,minimo_cm,media_cm,leituras_validas,atencao_cm,alerta_cm,emergencia_cm
+S01,Sarandi,Arroio Sarandi - Vila Elizabeth,2026-11-11 18:00,180.6,51.0,subindo,EMERGENCIA,True,70,Saia agora para o ponto de apoio mais próximo. Ligue 199 (Defesa Civil).,193.5,76.2,85.9,96,120.0,180.0,240.0
+S03,Navegantes,Casa de bombas - Rua Voluntários,2026-11-11 18:00,93.4,36.0,subindo,ATENCAO,True,228,Fique de olho no aplicativo e deixe documentos e remédios à mão.,103.0,57.9,61.3,97,110.0,170.0,230.0
+S02,Humaitá,Canal da Av. A. J. Renner,2026-11-11 18:00,136.5,19.6,subindo,ATENCAO,False,286,Fique de olho no aplicativo e deixe documentos e remédios à mão.,141.3,67.5,75.5,96,110.0,170.0,230.0
+S04,Menino Deus,Arroio Dilúvio - Av. Ipiranga,2026-11-11 18:00,130.0,-10.5,baixando,ATENCAO,False,,Fique de olho no aplicativo e deixe documentos e remédios à mão.,173.1,73.0,109.2,96,120.0,180.0,240.0
+S05,Cidade Baixa,Rua João Alfredo,2026-11-11 18:00,65.1,-1.6,estável,NORMAL,False,,Siga a rotina. Nenhuma ação necessária.,68.4,62.9,65.0,96,120.0,180.0,240.0
